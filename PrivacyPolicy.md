@@ -18,4 +18,4 @@ They can request for what we DO NOT have.
 <br><br>
 <b>Contact Us</b><br>
 For any questions, concerns, or clarifications you may need about this privacy policy, contact us directly at:
-Headmobtracker@gmail.com
+<a>Headmobtracker@gmail.com</a>
