@@ -1,6 +1,6 @@
-<b>
+<h4>
 Privacy Policy
-</b>
+</h4>
 <br>
 <br>
 <b>Collection of Your Information</b><br>
