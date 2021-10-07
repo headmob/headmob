@@ -1,7 +1,6 @@
-<h4>
+<h3>
 Privacy Policy
-</h4>
-<br>
+</h3>
 <br>
 <b>Collection of Your Information</b><br>
 We don't store your data, period.
