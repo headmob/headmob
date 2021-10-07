@@ -6,7 +6,7 @@ Privacy Policy
 Collection of Your Information
 We don't store your data, period.
 If information isn’t collected, it can’t be stolen, demanded, leaked or abused. HeadMob and its developers take your privacy very seriously. Beyond the information Google provides to developers that you can decide to provide, It uses NO third-party analytics and does NOT have any server to store your personal data. HeadMob logs no information on you and has no interest in doing such. Any information collected by the camera or TrueDepth API is ONLY sent to your own personal computer. 
-
+<br>
 <b>Mobile Device Access </b><br>
 We may request access or permission to certain features from your mobile device, including your camera phone. If you wish to change the access or permissions, you may do so in your device settings. 
 
